@@ -3,10 +3,10 @@
 
 using namespace std;
 
-vector<vector<int>> mazeToMatrix(vector<int> start, vector<int> end, int n) {
+vector<vector<int>> mazeToMatrix(int start[2], int end[2], int n) {
 
     vector<vector<int>> matrix;
-    ifstream file("mazes/" + to_string(n) + "x" + to_string(n) + "/exemplo_labirinto.txt");
+    ifstream file("../mazes/" + to_string(n) + "x" + to_string(n) + "/exemplo_labirinto.txt");
     char character;
     int line, column;
     line = column = 0;
