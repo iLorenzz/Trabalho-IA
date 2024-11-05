@@ -3,5 +3,9 @@
 
 #include <iostream>
 #include <vector>
+#include <cstdlib>
+using namespace std;
+
+int manhattanHeuristic(vector<int> currentPosition, vector<int> end);
 
 #endif
