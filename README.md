@@ -1,2 +1,1 @@
 # Trabalho IA
-# Trab
