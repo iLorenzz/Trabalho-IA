@@ -1,11 +1,12 @@
-#ifndef SEARCH_HPP
-#define SEARCH_HPP
-
 #include <iostream>
 #include <vector>
 #include <cstdlib>
+#include <queue>
+#include <utility>
+
 using namespace std;
 
-int manhattanHeuristic(int currentPosition[2] , int end[2]);
+typedef pair<int, int> Pair;
 
-#endif
+int manhattanHeuristic(Pair currentPosition , Pair end);
+vector<int> AStar(vector<vector<int>> maze, Pair start);

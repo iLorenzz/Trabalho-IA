@@ -1,6 +1,9 @@
 #include "search.hpp"
-using namespace std;
 
-int manhattanHeuristic(int currentPosition[2] , int end[2]) {
-    return abs(currentPosition[0] - end[0]) + abs(currentPosition[1] - end[1]);
+int manhattanHeuristic(Pair currentPosition , Pair end){
+    return abs((currentPosition.first - end.first)) + abs((currentPosition.second - end.second));
+}
+
+vector<int> AStar(vector<vector<int>> maze, Pair start){
+    priority_queue<Pair> AStarQueue;
 }
