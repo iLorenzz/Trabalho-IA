@@ -6,6 +6,6 @@
 
 #include "search.hpp"
 
-vector<vector<int>> mazeToMatrix(Pair &start, Pair &end, int n);
+vector<vector<int>> mazeToMatrix(Pair &start, Pair &end, int mazeSize);
 
 #endif
