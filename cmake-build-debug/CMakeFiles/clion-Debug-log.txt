@@ -1,0 +1,15 @@
+/home/rzcg/Apps/clion-2024.2.3/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/rzcg/Apps/clion-2024.2.3/bin/ninja/linux/x64/ninja -G Ninja -S /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA -B /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/cmake-build-debug
+-- ┌─ FTXUI options ─────────────────────
+-- │ FTXUI_ENABLE_INSTALL     : ON
+-- │ FTXUI_BUILD_EXAMPLES     : OFF
+-- │ FTXUI_QUIET              : OFF
+-- │ FTXUI_BUILD_DOCS         : OFF
+-- │ FTXUI_BUILD_TESTS        : OFF
+-- │ FTXUI_BUILD_TESTS_FUZZER : OFF
+-- │ FTXUI_ENABLE_COVERAGE    : OFF
+-- │ FTXUI_DEV_WARNINGS       : OFF
+-- │ FTXUI_CLANG_TIDY         : OFF
+-- └─────────────────────────────────────
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/cmake-build-debug

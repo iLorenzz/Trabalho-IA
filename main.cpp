@@ -1,10 +1,14 @@
 #include <iostream>
+#include "cmake-build-debug/_deps/ftxui-src/include/ftxui/component/component.hpp"
 #include "parser/parser.hpp"
 
 using namespace std;
+using namespace ftxui;
+
+void firstMenu();
+void secondMenu();
 
 int main() {
-
     char searchOption;
     char mazeOption;
 
@@ -27,7 +31,7 @@ int main() {
         }
 
         if(searchOption == '1' || searchOption == '2') {
-            
+
         }
 
     } while(searchOption != '3');

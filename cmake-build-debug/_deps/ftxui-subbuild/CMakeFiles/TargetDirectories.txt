@@ -1,0 +1,3 @@
+/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/cmake-build-debug/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate.dir
+/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/cmake-build-debug/_deps/ftxui-subbuild/CMakeFiles/edit_cache.dir
+/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/cmake-build-debug/_deps/ftxui-subbuild/CMakeFiles/rebuild_cache.dir
