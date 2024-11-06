@@ -1,8 +1,4 @@
-#include <vector>
-#include <tuple>
-#include <cmath>
 #include "search.hpp"
-using namespace std;
 
 // Verifica se um passo é válido (está dentro do labirinto, não foi visitado e não é uma parede)
 bool isStepValid(Pair position, vector<vector<int>> maze, vector<vector<bool>> visited) {
