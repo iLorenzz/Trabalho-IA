@@ -3,9 +3,9 @@
 #include "parser.hpp"
 using namespace std;
 
-vector<vector<int>> mazeToMatrix(int start[2], int n) {
+vector<vector<int>> mazeToMatrix(int start[2], int end[2], int n) {
 
-    vector<vector<int>> matrix(n, vector<int>(n, 0));
+    vector<vector<int>> matrix(n, vector<int>(n, 0));;
     ifstream file("../mazes/" + to_string(n) + "x" + to_string(n) + "/exemplo_labirinto.txt");
     char character;
     int line, column;
@@ -25,6 +25,9 @@ vector<vector<int>> mazeToMatrix(int start[2], int n) {
         if(character == '2') {
             start[0] = line;
             start[1] = column - 1;
+        } else if(character == '3') {
+            end[0] = line;
+            end[1] = column - 1;
         }
     }
 
