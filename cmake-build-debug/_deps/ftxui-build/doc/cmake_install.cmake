@@ -1,4 +1,4 @@
-# Install script for directory: /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/cmake-build-debug/_deps/ftxui-src/doc
+# Install script for directory: /home/rzcgl/Documents/USP/IA/Trabalho-IA/cmake-build-debug/_deps/ftxui-src/doc
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
