@@ -6,6 +6,6 @@
 #include <cstdlib>
 using namespace std;
 
-int manhattanHeuristic(vector<int> currentPosition, vector<int> end);
+int manhattanHeuristic(int currentPosition[2] , int end[2]);
 
 #endif

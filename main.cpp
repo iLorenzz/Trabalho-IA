@@ -1,7 +1,6 @@
 #include <iostream>
 #include "cmake-build-debug/_deps/ftxui-src/include/ftxui/component/component.hpp"
 #include "parser/parser.hpp"
-
 using namespace std;
 using namespace ftxui;
 

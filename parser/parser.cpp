@@ -1,6 +1,6 @@
 #include <vector>
 #include <fstream>
-
+#include "parser.hpp"
 using namespace std;
 
 vector<vector<int>> mazeToMatrix(int start[2], int end[2], int n) {
