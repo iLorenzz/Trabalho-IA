@@ -7,7 +7,7 @@ using namespace std;
 
 vector<vector<int>> mazeToMatrix(Pair &start, Pair &end, int mazeSize) {
 
-    vector<vector<int>> matrix(mazeSize, vector<int>(mazeSize, 0));;
+    vector<vector<int>> matrix(mazeSize, vector<int>(mazeSize, 0));
     ifstream file("../mazes/" + to_string(mazeSize - 1) + "x" + to_string(mazeSize - 1) + "/exemplo_labirinto.txt");
     char character;
     int line, column;

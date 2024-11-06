@@ -3,8 +3,7 @@
 
 #include <fstream>
 #include <vector>
-
-#include "search.hpp"
+#include "../search/search.hpp"
 
 vector<vector<int>> mazeToMatrix(Pair &start, Pair &end, int mazeSize);
 

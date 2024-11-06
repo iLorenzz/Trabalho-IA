@@ -1,19 +1,4 @@
-#include "search.hpp"
-
-struct NodeAStar {
-    Pair position;
-    int currentDistance, heuristic;
-    NodeAStar* parent;
-
-    NodeAStar(Pair position, int currentDistance, int heuristic, NodeAStar* parent):
-        position(position), currentDistance(currentDistance), heuristic(heuristic), parent(parent) {}
-};
-
-struct CompareF {
-    bool operator()(NodeAStar *a, NodeAStar* b) {
-        return (a->currentDistance + a->heuristic) > (b->currentDistance + b->heuristic);
-    }
-};
+#include "AStar.hpp"
 
 int manhattanHeuristic(Pair currentPosition , Pair end){
     return abs((currentPosition.first - end.first)) + abs((currentPosition.second - end.second));
@@ -39,20 +24,6 @@ vector<Pair> reconstructPath(NodeAStar* endNode) {
     return path;
 }
 
-bool isValid(Pair direction, Pair position, vector<vector<int>> maze, vector<vector<bool>> visitedSpaces, int mazeSize) {
-
-    int newX, newY;
-    newX = position.first + direction.first;
-    newY = position.second + direction.second;
-
-    if(newX >= 0 && newX < mazeSize && newY >= 0 && newY < mazeSize &&
-       maze[newX][newY] != 1 && !visitedSpaces[newX][newY]) {
-        return true;
-    }
-
-    return false;
-}
-
 vector<Pair> AStar(vector<vector<int>> maze, Pair start, Pair end, int mazeSize){
 
     priority_queue<NodeAStar*, vector<NodeAStar*>, CompareF> aStarQueue;
@@ -74,16 +45,17 @@ vector<Pair> AStar(vector<vector<int>> maze, Pair start, Pair end, int mazeSize)
 
         // Explore neighbours
         for(auto direction : MOVEMENTS) {
-             if(isValid(direction, currentNode->position, maze, visitedSpaces, mazeSize)) {
 
-                Pair newPosition = {currentNode->position.first + direction.first, currentNode->position.second + direction.second};
+            Pair newPosition = {currentNode->position.first + direction.first, currentNode->position.second + direction.second};
+            if(isStepValid(newPosition, maze, visitedSpaces)) {
+
                 int newDistance = currentNode->currentDistance + 1;
                 int newHeuristic = manhattanHeuristic(newPosition, end);
 
                 NodeAStar* nextNode = new NodeAStar(newPosition, newDistance, newHeuristic, currentNode);
 
                 aStarQueue.push(nextNode);
-             }
+            }
         }
     }
 
