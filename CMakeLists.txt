@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.29)
+cmake_minimum_required(VERSION 3.22)
 include(FetchContent)
 set(FETCHCONTENT_UPDATES_DISCONNECTED TRUE)
 FetchContent_Declare(ftxui
@@ -14,7 +14,9 @@ add_executable(Trabalho_IA
     search/AStar.cpp
     search/iterativeDepth.cpp
     search/search.hpp
-    main.cpp)
+    main.cpp
+        gui/gui.cpp
+        gui/gui.hpp)
 target_link_libraries(Trabalho_IA
   PRIVATE ftxui::screen
   PRIVATE ftxui::dom

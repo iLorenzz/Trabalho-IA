@@ -1,5 +1,6 @@
 #include <iostream>
 #include "cmake-build-debug/_deps/ftxui-src/include/ftxui/component/component.hpp"
+#include "gui/gui.hpp"
 #include "parser/parser.hpp"
 using namespace std;
 using namespace ftxui;
@@ -8,32 +9,7 @@ void firstMenu();
 void secondMenu();
 
 int main() {
-    char searchOption;
-    char mazeOption;
-
-    do {
-        firstMenu();
-        cin >> searchOption;
-
-        switch(searchOption) {
-            case '1':
-                secondMenu();
-                cin >> mazeOption;
-                break;
-            case '2':
-                secondMenu();
-                cin >> mazeOption;
-                break;
-            default:
-                cout << "Opcão inválida. Digite novamente:" << endl << "> ";
-                cin >> searchOption;
-        }
-
-        if(searchOption == '1' || searchOption == '2') {
-
-        }
-
-    } while(searchOption != '3');
+    gui_init();
 
     return 0;
 }

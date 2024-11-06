@@ -5,4 +5,6 @@
 #ifndef GUI_HPP
 #define GUI_HPP
 
+void gui_init();
+
 #endif //GUI_HPP

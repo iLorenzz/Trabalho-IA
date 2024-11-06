@@ -1,10 +1,4 @@
 /mnt/programs/Apps/clion-2024.2.3/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" -S /home/rzcgl/Documents/USP/IA/Trabalho-IA -B /home/rzcgl/Documents/USP/IA/Trabalho-IA/cmake-build-debug
--- The CXX compiler identification is GNU 11.4.0
--- Detecting CXX compiler ABI info
--- Detecting CXX compiler ABI info - done
--- Check for working CXX compiler: /usr/bin/c++ - skipped
--- Detecting CXX compile features
--- Detecting CXX compile features - done
 -- ┌─ FTXUI options ─────────────────────
 -- │ FTXUI_ENABLE_INSTALL     : ON
 -- │ FTXUI_BUILD_EXAMPLES     : OFF
@@ -16,15 +10,6 @@
 -- │ FTXUI_DEV_WARNINGS       : OFF
 -- │ FTXUI_CLANG_TIDY         : OFF
 -- └─────────────────────────────────────
--- Performing Test CMAKE_HAVE_LIBC_PTHREAD
--- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
--- Found Threads: TRUE
--- The C compiler identification is GNU 11.4.0
--- Detecting C compiler ABI info
--- Detecting C compiler ABI info - done
--- Check for working C compiler: /usr/bin/cc - skipped
--- Detecting C compile features
--- Detecting C compile features - done
--- Configuring done (14.0s)
+-- Configuring done (0.1s)
 -- Generating done (0.0s)
 -- Build files have been written to: /home/rzcgl/Documents/USP/IA/Trabalho-IA/cmake-build-debug
