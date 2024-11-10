@@ -22,8 +22,8 @@ set_property(GLOBAL PROPERTY _CMAKE_FindGit_GIT_EXECUTABLE_VERSION
 include(ExternalProject)
 ExternalProject_Add(ftxui-populate
                      "UPDATE_DISCONNECTED" "True" "GIT_REPOSITORY" "https://github.com/ArthurSonzogni/ftxui" "GIT_TAG" "main"
-                    SOURCE_DIR          "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src"
-                    BINARY_DIR          "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build"
+                    SOURCE_DIR          "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src"
+                    BINARY_DIR          "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build"
                     CONFIGURE_COMMAND   ""
                     BUILD_COMMAND       ""
                     INSTALL_COMMAND     ""

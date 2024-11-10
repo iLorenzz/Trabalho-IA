@@ -1,7 +1,7 @@
 _deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/string.cpp.o: \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/string.cpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/string.cpp \
  /usr/include/stdc-predef.h \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/string.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/string.hpp \
  /usr/include/c++/11/string \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -138,5 +138,5 @@ _deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/string.cpp.o: \
  /usr/include/c++/11/cstddef /usr/include/c++/11/tuple \
  /usr/include/c++/11/bits/uses_allocator.h \
  /usr/include/c++/11/bits/invoke.h \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/deprecated.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/string_internal.hpp
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/deprecated.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/string_internal.hpp

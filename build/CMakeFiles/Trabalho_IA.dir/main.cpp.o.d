@@ -1,5 +1,5 @@
 CMakeFiles/Trabalho_IA.dir/main.cpp.o: \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/main.cpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/main.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -153,8 +153,8 @@ CMakeFiles/Trabalho_IA.dir/main.cpp.o: \
  /usr/include/c++/11/utility /usr/include/c++/11/bits/stl_relops.h \
  /usr/include/c++/11/array /usr/include/c++/11/bits/uses_allocator.h \
  /usr/include/c++/11/bits/invoke.h \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/search/iterativeDepth.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/search/search.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/search/iterativeDepth.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/search/search.hpp \
  /usr/include/c++/11/queue /usr/include/c++/11/deque \
  /usr/include/c++/11/bits/stl_deque.h /usr/include/c++/11/bits/deque.tcc \
  /usr/include/c++/11/bits/stl_heap.h /usr/include/c++/11/bits/stl_queue.h \
@@ -182,11 +182,11 @@ CMakeFiles/Trabalho_IA.dir/main.cpp.o: \
  /usr/include/c++/11/tr1/poly_hermite.tcc \
  /usr/include/c++/11/tr1/poly_laguerre.tcc \
  /usr/include/c++/11/tr1/riemann_zeta.tcc \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/search/AStar.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/parser/parser.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/search/AStar.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/parser/parser.hpp \
  /usr/include/c++/11/fstream /usr/include/c++/11/bits/codecvt.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++io.h \
  /usr/include/c++/11/bits/fstream.tcc \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/parser/../search/search.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/gui/gui.hpp
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/parser/../search/search.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/gui/gui.hpp

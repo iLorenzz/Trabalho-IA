@@ -1,7 +1,7 @@
 _deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.o: \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/box_helper.cpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/box_helper.cpp \
  /usr/include/stdc-predef.h \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/box_helper.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/box_helper.hpp \
  /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \

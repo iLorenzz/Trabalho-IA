@@ -1,5 +1,5 @@
 _deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.o: \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/text.cpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/text.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/11/algorithm \
  /usr/include/c++/11/utility \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
@@ -163,23 +163,23 @@ _deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
  /usr/include/c++/11/bits/charconv.h \
  /usr/include/c++/11/bits/basic_string.tcc \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/deprecated.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/node.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/requirement.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/box.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/screen.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/image.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/pixel.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/color.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/terminal.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/elements.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/canvas.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/deprecated.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/node.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/requirement.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/box.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/screen.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/image.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/pixel.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/color.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/terminal.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/elements.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/canvas.hpp \
  /usr/include/c++/11/cstddef \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/direction.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/linear_gradient.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/direction.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/linear_gradient.hpp \
  /usr/include/c++/11/optional \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/util/ref.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/string.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/util/ref.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/string.hpp \
  /usr/include/c++/11/variant /usr/include/c++/11/bits/parse_numbers.h \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/take_any_args.hpp
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/take_any_args.hpp

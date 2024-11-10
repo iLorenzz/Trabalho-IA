@@ -2,6 +2,9 @@
 
 #include "gui.hpp"
 
+#include <AStar.hpp>
+#include <iterativeDepth.hpp>
+
 #include "parser.hpp"
 #include "ftxui/component/component.hpp"
 #include "ftxui/component/event.hpp"
@@ -86,8 +89,26 @@ void gui_init() {
         for (int i = 0; i < maze_matrix.size(); i++) {
             for (int j = 0; j < maze_matrix[i].size(); j++) {
                 if (maze_matrix[i][j] == 0) {
-                    maze_canvas.DrawPoint(i + position_correction, j + position_correction, true, Color::Red);
+                    maze_canvas.DrawPoint(i + position_correction, j + position_correction, true, Color::Black);
                 }
+            }
+        }
+
+        vector<Pair> solution;
+
+        if (algorithm_selected == 0) {
+            solution = AStar(maze_matrix, start, end, n+1);
+
+            for (auto & i : solution) {
+                maze_canvas.DrawPoint(i.first + position_correction, i.second + position_correction, false, Color::Gold1);
+                maze_canvas.DrawPoint(i.first + position_correction, i.second + position_correction, true, Color::Gold1);
+            }
+        } else {
+            solution = iterativeDepthSearch(maze_matrix, start);
+
+            for (auto & i : solution) {
+                maze_canvas.DrawPoint(i.first + position_correction, i.second + position_correction, false, Color::Gold1);
+                maze_canvas.DrawPoint(i.first + position_correction, i.second + position_correction, true, Color::Gold1);
             }
         }
 

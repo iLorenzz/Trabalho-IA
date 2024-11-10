@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include
+CXX_INCLUDES = -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include
 
 CXX_FLAGS = -fPIC
 

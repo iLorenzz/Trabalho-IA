@@ -1,5 +1,5 @@
 _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/slider.cpp.o: \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/slider.cpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/slider.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/11/algorithm \
  /usr/include/c++/11/utility \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
@@ -99,7 +99,7 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/slider.cpp.o: \
  /usr/include/c++/11/bits/stl_bvector.h \
  /usr/include/c++/11/bits/vector.tcc \
  /usr/include/c++/11/pstl/execution_defs.h \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/component/component_options.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/component/component_options.hpp \
  /usr/include/c++/11/chrono /usr/include/c++/11/ratio \
  /usr/include/c++/11/cstdint \
  /usr/lib/gcc/x86_64-linux-gnu/11/include/stdint.h /usr/include/stdint.h \
@@ -111,9 +111,9 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/slider.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
  /usr/include/c++/11/bits/parse_numbers.h \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/component/animation.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/direction.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/elements.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/component/animation.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/direction.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/elements.hpp \
  /usr/include/c++/11/memory \
  /usr/include/c++/11/bits/stl_raw_storage_iter.h \
  /usr/include/c++/11/bits/align.h /usr/include/c++/11/bit \
@@ -150,7 +150,7 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/slider.cpp.o: \
  /usr/include/c++/11/bits/atomic_lockfree_defines.h \
  /usr/include/c++/11/backward/auto_ptr.h \
  /usr/include/c++/11/pstl/glue_memory_defs.h \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/canvas.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/canvas.hpp \
  /usr/include/c++/11/cstddef /usr/include/c++/11/string \
  /usr/include/c++/11/bits/char_traits.h \
  /usr/include/c++/11/bits/localefwd.h \
@@ -174,30 +174,30 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/slider.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/types/error_t.h \
  /usr/include/c++/11/bits/charconv.h \
  /usr/include/c++/11/bits/basic_string.tcc \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/color.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/image.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/box.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/pixel.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/linear_gradient.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/color.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/image.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/box.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/pixel.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/linear_gradient.hpp \
  /usr/include/c++/11/optional \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/node.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/requirement.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/screen.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/terminal.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/util/ref.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/string.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/node.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/requirement.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/screen.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/terminal.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/util/ref.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/string.hpp \
  /usr/include/c++/11/variant \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/take_any_args.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/deprecated.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/component/component_base.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/component/captured_mouse.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/component/component.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/component/event.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/component/mouse.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/component/screen_interactive.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/take_any_args.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/dom/deprecated.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/component/component_base.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/component/captured_mouse.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/component/component.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/component/event.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/component/mouse.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/component/screen_interactive.hpp \
  /usr/include/c++/11/atomic \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/component/receiver.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/component/receiver.hpp \
  /usr/include/c++/11/condition_variable \
  /usr/include/c++/11/bits/std_mutex.h /usr/include/c++/11/system_error \
  /usr/include/x86_64-linux-gnu/c++/11/bits/error_constants.h \
@@ -207,5 +207,5 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/slider.cpp.o: \
  /usr/include/c++/11/bits/deque.tcc /usr/include/c++/11/bits/stl_queue.h \
  /usr/include/c++/11/thread /usr/include/c++/11/bits/std_thread.h \
  /usr/include/c++/11/bits/this_thread_sleep.h \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/component/task.hpp \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/util.hpp
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/component/task.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/util.hpp

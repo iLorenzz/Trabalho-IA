@@ -1,7 +1,7 @@
 _deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/box.cpp.o: \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/box.cpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/box.cpp \
  /usr/include/stdc-predef.h \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/box.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/screen/box.hpp \
  /usr/include/c++/11/algorithm /usr/include/c++/11/utility \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \

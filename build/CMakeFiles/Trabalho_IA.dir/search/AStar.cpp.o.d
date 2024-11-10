@@ -1,7 +1,7 @@
 CMakeFiles/Trabalho_IA.dir/search/AStar.cpp.o: \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/search/AStar.cpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/search/AStar.cpp \
  /usr/include/stdc-predef.h \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/search/AStar.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/search/AStar.hpp \
  /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -45,7 +45,7 @@ CMakeFiles/Trabalho_IA.dir/search/AStar.cpp.o: \
  /usr/include/c++/11/bits/range_access.h \
  /usr/include/c++/11/bits/vector.tcc /usr/include/c++/11/utility \
  /usr/include/c++/11/bits/stl_relops.h \
- /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/search/search.hpp \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/search/search.hpp \
  /usr/include/c++/11/queue /usr/include/c++/11/deque \
  /usr/include/c++/11/bits/stl_deque.h /usr/include/c++/11/bits/deque.tcc \
  /usr/include/c++/11/bits/stl_heap.h \
