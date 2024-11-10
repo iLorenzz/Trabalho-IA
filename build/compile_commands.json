@@ -1,352 +1,352 @@
 [
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/box.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/box.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/box.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/box.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/box.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/box.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/color.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/color.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/color.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/color.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/color.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/color.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/color_info.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/color_info.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/color_info.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/color_info.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/color_info.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/color_info.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/image.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/image.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/image.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/image.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/image.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/image.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/screen.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/screen.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/screen.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/screen.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/screen.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/screen.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/string.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/string.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/string.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/string.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/string.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/string.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/terminal.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/terminal.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/terminal.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/terminal.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/terminal.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/screen/terminal.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/automerge.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/automerge.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/automerge.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/automerge.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/blink.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/blink.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/blink.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/blink.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/bold.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/bold.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/bold.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/bold.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/hyperlink.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/hyperlink.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/hyperlink.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/hyperlink.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/border.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/border.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/border.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/border.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/box_helper.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/box_helper.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/box_helper.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/box_helper.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/canvas.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/canvas.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/canvas.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/canvas.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/clear_under.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/clear_under.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/clear_under.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/clear_under.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/color.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/color.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/color.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/color.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/composite_decorator.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/composite_decorator.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/composite_decorator.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/composite_decorator.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/dbox.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/dbox.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/dbox.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/dbox.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/dim.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/dim.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/dim.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/dim.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/flex.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/flex.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/flex.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/flex.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/flexbox.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/flexbox.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/flexbox.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/flexbox.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/flexbox_config.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/flexbox_config.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/flexbox_config.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/flexbox_config.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/flexbox_helper.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/flexbox_helper.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/flexbox_helper.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/flexbox_helper.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/focus.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/focus.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/focus.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/focus.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/frame.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/frame.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/frame.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/frame.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/gauge.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/gauge.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/gauge.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/gauge.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/graph.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/graph.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/graph.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/graph.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/gridbox.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/gridbox.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/gridbox.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/gridbox.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/hbox.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/hbox.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/hbox.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/hbox.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/inverted.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/inverted.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/inverted.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/inverted.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/linear_gradient.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/linear_gradient.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/linear_gradient.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/linear_gradient.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/node.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/node.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/node.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/node.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/node_decorator.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/node_decorator.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/node_decorator.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/node_decorator.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/paragraph.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/paragraph.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/paragraph.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/paragraph.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/reflect.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/reflect.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/reflect.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/reflect.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/scroll_indicator.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/scroll_indicator.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/scroll_indicator.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/scroll_indicator.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/separator.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/separator.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/separator.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/separator.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/size.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/size.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/size.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/size.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/spinner.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/spinner.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/spinner.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/spinner.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/strikethrough.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/strikethrough.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/strikethrough.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/strikethrough.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/table.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/table.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/table.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/table.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/text.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/text.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/text.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/text.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/underlined.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/underlined.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/underlined.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/underlined.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/underlined_double.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/underlined_double.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/underlined_double.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/underlined_double.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/util.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/util.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/util.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/util.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/vbox.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/vbox.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/vbox.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/dom/vbox.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/animation.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/animation.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/animation.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/animation.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/animation.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/animation.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/button.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/button.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/button.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/button.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/button.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/button.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/catch_event.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/catch_event.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/catch_event.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/catch_event.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/catch_event.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/catch_event.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/checkbox.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/checkbox.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/checkbox.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/checkbox.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/checkbox.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/checkbox.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/collapsible.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/collapsible.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/collapsible.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/collapsible.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/collapsible.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/collapsible.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/component.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/component.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/component.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/component.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/component.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/component.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/component_options.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/component_options.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/component_options.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/component_options.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/component_options.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/component_options.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/container.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/container.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/container.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/container.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/container.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/container.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/dropdown.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/dropdown.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/dropdown.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/dropdown.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/dropdown.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/dropdown.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/event.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/event.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/event.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/event.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/event.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/event.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/hoverable.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/hoverable.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/hoverable.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/hoverable.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/hoverable.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/hoverable.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/input.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/input.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/input.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/input.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/input.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/input.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/loop.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/loop.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/loop.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/loop.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/loop.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/loop.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/maybe.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/maybe.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/maybe.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/maybe.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/maybe.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/maybe.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/menu.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/menu.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/menu.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/menu.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/menu.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/menu.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/modal.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/modal.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/modal.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/modal.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/modal.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/modal.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/radiobox.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/radiobox.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/radiobox.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/radiobox.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/radiobox.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/radiobox.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/renderer.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/renderer.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/renderer.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/renderer.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/renderer.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/renderer.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/resizable_split.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/resizable_split.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/resizable_split.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/resizable_split.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/resizable_split.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/resizable_split.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/screen_interactive.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/screen_interactive.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/screen_interactive.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/screen_interactive.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/screen_interactive.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/screen_interactive.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/slider.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/slider.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/slider.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/slider.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/slider.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/slider.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/terminal_input_parser.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/terminal_input_parser.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/terminal_input_parser.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/terminal_input_parser.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/terminal_input_parser.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/terminal_input_parser.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/util.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/util.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/util.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/util.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/util.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/util.cpp"
 },
 {
-  "directory": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-build",
-  "command": "/usr/bin/c++  -I/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/window.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/window.cpp",
-  "file": "/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/window.cpp"
+  "directory": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++  -I/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src -isystem /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include -fPIC -o CMakeFiles/component.dir/src/ftxui/component/window.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/window.cpp",
+  "file": "/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/window.cpp"
 }
 ]

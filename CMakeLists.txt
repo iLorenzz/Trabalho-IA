@@ -9,14 +9,14 @@ FetchContent_MakeAvailable(ftxui)
 
 project(Trabalho_IA)
 add_executable(Trabalho_IA
-    parser/parser.cpp
-    parser/parser.hpp
-    search/AStar.cpp
-    search/iterativeDepth.cpp
-    search/search.hpp
-    main.cpp
+        parser/parser.cpp
+        parser/parser.hpp
+        search/AStar.cpp
+        search/iterativeDepth.cpp
+        search/search.cpp
         gui/gui.cpp
-        gui/gui.hpp)
+        gui/gui.hpp
+        main.cpp)
 target_link_libraries(Trabalho_IA
   PRIVATE ftxui::screen
   PRIVATE ftxui::dom
