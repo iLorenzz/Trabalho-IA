@@ -1,9 +1,8 @@
 CMakeFiles/Trabalho_IA.dir/search/AStar.cpp.o: \
  /home/rzcgl/Documents/USP/IA/Trabalho-IA/search/AStar.cpp \
  /usr/include/stdc-predef.h \
- /home/rzcgl/Documents/USP/IA/Trabalho-IA/search/search.hpp \
- /usr/include/c++/11/queue /usr/include/c++/11/deque \
- /usr/include/c++/11/bits/stl_algobase.h \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/search/AStar.hpp \
+ /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -38,20 +37,22 @@ CMakeFiles/Trabalho_IA.dir/search/AStar.cpp.o: \
  /usr/include/c++/11/bits/stl_uninitialized.h \
  /usr/include/c++/11/ext/alloc_traits.h \
  /usr/include/c++/11/bits/alloc_traits.h \
- /usr/include/c++/11/bits/stl_deque.h \
- /usr/include/c++/11/initializer_list \
- /usr/include/c++/11/bits/range_access.h \
- /usr/include/c++/11/bits/deque.tcc /usr/include/c++/11/vector \
  /usr/include/c++/11/bits/stl_vector.h \
+ /usr/include/c++/11/initializer_list \
  /usr/include/c++/11/bits/stl_bvector.h \
  /usr/include/c++/11/bits/functional_hash.h \
  /usr/include/c++/11/bits/hash_bytes.h \
- /usr/include/c++/11/bits/vector.tcc /usr/include/c++/11/bits/stl_heap.h \
+ /usr/include/c++/11/bits/range_access.h \
+ /usr/include/c++/11/bits/vector.tcc /usr/include/c++/11/utility \
+ /usr/include/c++/11/bits/stl_relops.h \
+ /home/rzcgl/Documents/USP/IA/Trabalho-IA/search/search.hpp \
+ /usr/include/c++/11/queue /usr/include/c++/11/deque \
+ /usr/include/c++/11/bits/stl_deque.h /usr/include/c++/11/bits/deque.tcc \
+ /usr/include/c++/11/bits/stl_heap.h \
  /usr/include/c++/11/bits/stl_function.h \
  /usr/include/c++/11/backward/binders.h \
  /usr/include/c++/11/bits/stl_queue.h \
- /usr/include/c++/11/bits/uses_allocator.h /usr/include/c++/11/utility \
- /usr/include/c++/11/bits/stl_relops.h /usr/include/c++/11/stack \
+ /usr/include/c++/11/bits/uses_allocator.h /usr/include/c++/11/stack \
  /usr/include/c++/11/bits/stl_stack.h /usr/include/c++/11/cmath \
  /usr/include/math.h \
  /usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
