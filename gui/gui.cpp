@@ -14,19 +14,13 @@
 using namespace ftxui;
 using namespace std;
 
-void clean_canvas(Canvas c) {
-    for (int i = 0; i < c.width(); i++) {
-        for (int j = 0; j < c.height(); j++) {
-            c.DrawPoint(i, j, false);
-        }
-    }
-}
+constexpr int CANVAS_SIZE = 220;
 
 void gui_init() {
     auto screen = ScreenInteractive::TerminalOutput();
 
     // ---- MAZE ----------------------------------------------------------
-    auto maze_canvas = Canvas(250, 250);
+    auto maze_canvas = Canvas(CANVAS_SIZE, CANVAS_SIZE);
 
     // ---- INFO SCREEN ---------------------------------------------------
     string info = "TEST test teeeeeeeest";
@@ -48,7 +42,11 @@ void gui_init() {
 
     auto exit_button = Button("Exit", screen.ExitLoopClosure());
     function<void()> run_action = [&] {
-        clean_canvas(maze_canvas);
+        for (int i = 0; i < maze_canvas.width(); i++) {
+            for (int j = 0; j < maze_canvas.height(); j++) {
+                maze_canvas.DrawBlock(i, j, false);
+            }
+        }
         int n;
         switch (maze_size_selected) {
             case 0:
@@ -68,18 +66,33 @@ void gui_init() {
         }
         info = to_string(n);
 
-        Pair a = {0, 0};
-        Pair b = {0, 0};
+        Pair start = {0, 0};
+        Pair end = {0, 0};
 
-        vector<vector<int>> maze_matrix = mazeToMatrix(a, b, n + 1);
+        vector<vector<int>> maze_matrix = mazeToMatrix(start, end, n + 1);
+
+        info.append(" | start: ");
+        info.append(to_string(start.first));
+        info.append(", ");
+        info.append(to_string(start.second));
+        info.append(" | end: ");
+        info.append(to_string(end.first));
+        info.append(", ");
+        info.append(to_string(end.second));
+
+        int position_correction = (CANVAS_SIZE / 2) - (n / 2);
+        int scale_factor = 200 / n;
 
         for (int i = 0; i < maze_matrix.size(); i++) {
             for (int j = 0; j < maze_matrix[i].size(); j++) {
-                if (maze_matrix[i][j] == 1) {
-                    maze_canvas.DrawPoint(i + 5, j + 5, true, Color::Red);
+                if (maze_matrix[i][j] == 0) {
+                    maze_canvas.DrawPoint(i + position_correction, j + position_correction, true, Color::Red);
                 }
             }
         }
+
+        maze_canvas.DrawBlock(start.first + position_correction, start.second + position_correction, true, Color::Green);
+        maze_canvas.DrawBlock(end.first + position_correction, end.second + position_correction, true, Color::Red);
     };
     auto run_button = Button("RUN", run_action);
 

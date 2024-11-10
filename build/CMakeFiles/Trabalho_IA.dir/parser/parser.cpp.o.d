@@ -1,5 +1,5 @@
 CMakeFiles/Trabalho_IA.dir/parser/parser.cpp.o: \
- /home/rzcgl/Documents/USP/IA/Trabalho-IA/parser/parser.cpp \
+ /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/parser/parser.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/11/vector \
  /usr/include/c++/11/bits/stl_algobase.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
@@ -153,8 +153,8 @@ CMakeFiles/Trabalho_IA.dir/parser/parser.cpp.o: \
  /usr/include/x86_64-linux-gnu/c++/11/bits/basic_file.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++io.h \
  /usr/include/c++/11/bits/fstream.tcc \
- /home/rzcgl/Documents/USP/IA/Trabalho-IA/parser/parser.hpp \
- /home/rzcgl/Documents/USP/IA/Trabalho-IA/parser/../search/search.hpp \
+ /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/parser/parser.hpp \
+ /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/parser/../search/search.hpp \
  /usr/include/c++/11/queue /usr/include/c++/11/deque \
  /usr/include/c++/11/bits/stl_deque.h /usr/include/c++/11/bits/deque.tcc \
  /usr/include/c++/11/bits/stl_heap.h /usr/include/c++/11/bits/stl_queue.h \

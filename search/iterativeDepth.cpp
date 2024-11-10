@@ -1,5 +1,8 @@
 #include "iterativeDepth.hpp"
 
+#include <iostream>
+#include <ostream>
+
 // Busca em profundidade iterativa (repetidas buscas em profundidade limitadas)
 // Retorna um vector com a solução encontrada
 vector<Pair> iterativeDepthSearch(const vector<vector<int>> maze, Pair start) {

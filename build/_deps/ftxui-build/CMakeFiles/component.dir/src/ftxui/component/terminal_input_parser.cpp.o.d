@@ -1,7 +1,7 @@
 _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/terminal_input_parser.cpp.o: \
- /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/terminal_input_parser.cpp \
+ /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/terminal_input_parser.cpp \
  /usr/include/stdc-predef.h \
- /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/terminal_input_parser.hpp \
+ /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/src/ftxui/component/terminal_input_parser.hpp \
  /usr/include/c++/11/string \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -134,8 +134,8 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/terminal_input_pa
  /usr/include/c++/11/bits/stl_vector.h \
  /usr/include/c++/11/bits/stl_bvector.h \
  /usr/include/c++/11/bits/vector.tcc \
- /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/component/mouse.hpp \
- /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/component/receiver.hpp \
+ /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/component/mouse.hpp \
+ /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/component/receiver.hpp \
  /usr/include/c++/11/algorithm /usr/include/c++/11/utility \
  /usr/include/c++/11/bits/stl_relops.h \
  /usr/include/c++/11/bits/stl_algo.h \
@@ -182,9 +182,9 @@ _deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/terminal_input_pa
  /usr/include/c++/11/queue /usr/include/c++/11/deque \
  /usr/include/c++/11/bits/stl_deque.h /usr/include/c++/11/bits/deque.tcc \
  /usr/include/c++/11/bits/stl_queue.h \
- /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/component/task.hpp \
+ /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/component/task.hpp \
  /usr/include/c++/11/variant \
- /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/component/event.hpp \
+ /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/_deps/ftxui-src/include/ftxui/component/event.hpp \
  /usr/include/c++/11/map /usr/include/c++/11/bits/stl_tree.h \
  /usr/include/c++/11/bits/stl_map.h \
  /usr/include/c++/11/bits/stl_multimap.h

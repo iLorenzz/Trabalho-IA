@@ -9,6 +9,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Trabalho_IA.dir/search/AStar.cpp.o.d"
   "CMakeFiles/Trabalho_IA.dir/search/iterativeDepth.cpp.o"
   "CMakeFiles/Trabalho_IA.dir/search/iterativeDepth.cpp.o.d"
+  "CMakeFiles/Trabalho_IA.dir/search/search.cpp.o"
+  "CMakeFiles/Trabalho_IA.dir/search/search.cpp.o.d"
   "Trabalho_IA"
   "Trabalho_IA.pdb"
 )

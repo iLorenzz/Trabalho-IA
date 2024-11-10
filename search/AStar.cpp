@@ -1,5 +1,7 @@
 #include "AStar.hpp"
 
+#include <iostream>
+
 int manhattanHeuristic(Pair currentPosition , Pair end){
     return abs((currentPosition.first - end.first)) + abs((currentPosition.second - end.second));
 }

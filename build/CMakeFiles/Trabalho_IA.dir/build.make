@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/rzcgl/Documents/USP/IA/Trabalho-IA
+CMAKE_SOURCE_DIR = /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/rzcgl/Documents/USP/IA/Trabalho-IA/build
+CMAKE_BINARY_DIR = /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Trabalho_IA.dir/depend.make
@@ -72,80 +72,95 @@ include CMakeFiles/Trabalho_IA.dir/flags.make
 CMakeFiles/Trabalho_IA.dir/parser/parser.cpp.o: CMakeFiles/Trabalho_IA.dir/flags.make
 CMakeFiles/Trabalho_IA.dir/parser/parser.cpp.o: ../parser/parser.cpp
 CMakeFiles/Trabalho_IA.dir/parser/parser.cpp.o: CMakeFiles/Trabalho_IA.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Trabalho_IA.dir/parser/parser.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Trabalho_IA.dir/parser/parser.cpp.o -MF CMakeFiles/Trabalho_IA.dir/parser/parser.cpp.o.d -o CMakeFiles/Trabalho_IA.dir/parser/parser.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/parser/parser.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Trabalho_IA.dir/parser/parser.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Trabalho_IA.dir/parser/parser.cpp.o -MF CMakeFiles/Trabalho_IA.dir/parser/parser.cpp.o.d -o CMakeFiles/Trabalho_IA.dir/parser/parser.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/parser/parser.cpp
 
 CMakeFiles/Trabalho_IA.dir/parser/parser.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Trabalho_IA.dir/parser/parser.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rzcgl/Documents/USP/IA/Trabalho-IA/parser/parser.cpp > CMakeFiles/Trabalho_IA.dir/parser/parser.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/parser/parser.cpp > CMakeFiles/Trabalho_IA.dir/parser/parser.cpp.i
 
 CMakeFiles/Trabalho_IA.dir/parser/parser.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Trabalho_IA.dir/parser/parser.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rzcgl/Documents/USP/IA/Trabalho-IA/parser/parser.cpp -o CMakeFiles/Trabalho_IA.dir/parser/parser.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/parser/parser.cpp -o CMakeFiles/Trabalho_IA.dir/parser/parser.cpp.s
 
 CMakeFiles/Trabalho_IA.dir/search/AStar.cpp.o: CMakeFiles/Trabalho_IA.dir/flags.make
 CMakeFiles/Trabalho_IA.dir/search/AStar.cpp.o: ../search/AStar.cpp
 CMakeFiles/Trabalho_IA.dir/search/AStar.cpp.o: CMakeFiles/Trabalho_IA.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Trabalho_IA.dir/search/AStar.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Trabalho_IA.dir/search/AStar.cpp.o -MF CMakeFiles/Trabalho_IA.dir/search/AStar.cpp.o.d -o CMakeFiles/Trabalho_IA.dir/search/AStar.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/search/AStar.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Trabalho_IA.dir/search/AStar.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Trabalho_IA.dir/search/AStar.cpp.o -MF CMakeFiles/Trabalho_IA.dir/search/AStar.cpp.o.d -o CMakeFiles/Trabalho_IA.dir/search/AStar.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/search/AStar.cpp
 
 CMakeFiles/Trabalho_IA.dir/search/AStar.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Trabalho_IA.dir/search/AStar.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rzcgl/Documents/USP/IA/Trabalho-IA/search/AStar.cpp > CMakeFiles/Trabalho_IA.dir/search/AStar.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/search/AStar.cpp > CMakeFiles/Trabalho_IA.dir/search/AStar.cpp.i
 
 CMakeFiles/Trabalho_IA.dir/search/AStar.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Trabalho_IA.dir/search/AStar.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rzcgl/Documents/USP/IA/Trabalho-IA/search/AStar.cpp -o CMakeFiles/Trabalho_IA.dir/search/AStar.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/search/AStar.cpp -o CMakeFiles/Trabalho_IA.dir/search/AStar.cpp.s
 
 CMakeFiles/Trabalho_IA.dir/search/iterativeDepth.cpp.o: CMakeFiles/Trabalho_IA.dir/flags.make
 CMakeFiles/Trabalho_IA.dir/search/iterativeDepth.cpp.o: ../search/iterativeDepth.cpp
 CMakeFiles/Trabalho_IA.dir/search/iterativeDepth.cpp.o: CMakeFiles/Trabalho_IA.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Trabalho_IA.dir/search/iterativeDepth.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Trabalho_IA.dir/search/iterativeDepth.cpp.o -MF CMakeFiles/Trabalho_IA.dir/search/iterativeDepth.cpp.o.d -o CMakeFiles/Trabalho_IA.dir/search/iterativeDepth.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/search/iterativeDepth.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Trabalho_IA.dir/search/iterativeDepth.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Trabalho_IA.dir/search/iterativeDepth.cpp.o -MF CMakeFiles/Trabalho_IA.dir/search/iterativeDepth.cpp.o.d -o CMakeFiles/Trabalho_IA.dir/search/iterativeDepth.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/search/iterativeDepth.cpp
 
 CMakeFiles/Trabalho_IA.dir/search/iterativeDepth.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Trabalho_IA.dir/search/iterativeDepth.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rzcgl/Documents/USP/IA/Trabalho-IA/search/iterativeDepth.cpp > CMakeFiles/Trabalho_IA.dir/search/iterativeDepth.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/search/iterativeDepth.cpp > CMakeFiles/Trabalho_IA.dir/search/iterativeDepth.cpp.i
 
 CMakeFiles/Trabalho_IA.dir/search/iterativeDepth.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Trabalho_IA.dir/search/iterativeDepth.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rzcgl/Documents/USP/IA/Trabalho-IA/search/iterativeDepth.cpp -o CMakeFiles/Trabalho_IA.dir/search/iterativeDepth.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/search/iterativeDepth.cpp -o CMakeFiles/Trabalho_IA.dir/search/iterativeDepth.cpp.s
 
-CMakeFiles/Trabalho_IA.dir/main.cpp.o: CMakeFiles/Trabalho_IA.dir/flags.make
-CMakeFiles/Trabalho_IA.dir/main.cpp.o: ../main.cpp
-CMakeFiles/Trabalho_IA.dir/main.cpp.o: CMakeFiles/Trabalho_IA.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Trabalho_IA.dir/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Trabalho_IA.dir/main.cpp.o -MF CMakeFiles/Trabalho_IA.dir/main.cpp.o.d -o CMakeFiles/Trabalho_IA.dir/main.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/main.cpp
+CMakeFiles/Trabalho_IA.dir/search/search.cpp.o: CMakeFiles/Trabalho_IA.dir/flags.make
+CMakeFiles/Trabalho_IA.dir/search/search.cpp.o: ../search/search.cpp
+CMakeFiles/Trabalho_IA.dir/search/search.cpp.o: CMakeFiles/Trabalho_IA.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Trabalho_IA.dir/search/search.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Trabalho_IA.dir/search/search.cpp.o -MF CMakeFiles/Trabalho_IA.dir/search/search.cpp.o.d -o CMakeFiles/Trabalho_IA.dir/search/search.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/search/search.cpp
 
-CMakeFiles/Trabalho_IA.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Trabalho_IA.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rzcgl/Documents/USP/IA/Trabalho-IA/main.cpp > CMakeFiles/Trabalho_IA.dir/main.cpp.i
+CMakeFiles/Trabalho_IA.dir/search/search.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Trabalho_IA.dir/search/search.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/search/search.cpp > CMakeFiles/Trabalho_IA.dir/search/search.cpp.i
 
-CMakeFiles/Trabalho_IA.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Trabalho_IA.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rzcgl/Documents/USP/IA/Trabalho-IA/main.cpp -o CMakeFiles/Trabalho_IA.dir/main.cpp.s
+CMakeFiles/Trabalho_IA.dir/search/search.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Trabalho_IA.dir/search/search.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/search/search.cpp -o CMakeFiles/Trabalho_IA.dir/search/search.cpp.s
 
 CMakeFiles/Trabalho_IA.dir/gui/gui.cpp.o: CMakeFiles/Trabalho_IA.dir/flags.make
 CMakeFiles/Trabalho_IA.dir/gui/gui.cpp.o: ../gui/gui.cpp
 CMakeFiles/Trabalho_IA.dir/gui/gui.cpp.o: CMakeFiles/Trabalho_IA.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Trabalho_IA.dir/gui/gui.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Trabalho_IA.dir/gui/gui.cpp.o -MF CMakeFiles/Trabalho_IA.dir/gui/gui.cpp.o.d -o CMakeFiles/Trabalho_IA.dir/gui/gui.cpp.o -c /home/rzcgl/Documents/USP/IA/Trabalho-IA/gui/gui.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Trabalho_IA.dir/gui/gui.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Trabalho_IA.dir/gui/gui.cpp.o -MF CMakeFiles/Trabalho_IA.dir/gui/gui.cpp.o.d -o CMakeFiles/Trabalho_IA.dir/gui/gui.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/gui/gui.cpp
 
 CMakeFiles/Trabalho_IA.dir/gui/gui.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Trabalho_IA.dir/gui/gui.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rzcgl/Documents/USP/IA/Trabalho-IA/gui/gui.cpp > CMakeFiles/Trabalho_IA.dir/gui/gui.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/gui/gui.cpp > CMakeFiles/Trabalho_IA.dir/gui/gui.cpp.i
 
 CMakeFiles/Trabalho_IA.dir/gui/gui.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Trabalho_IA.dir/gui/gui.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rzcgl/Documents/USP/IA/Trabalho-IA/gui/gui.cpp -o CMakeFiles/Trabalho_IA.dir/gui/gui.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/gui/gui.cpp -o CMakeFiles/Trabalho_IA.dir/gui/gui.cpp.s
+
+CMakeFiles/Trabalho_IA.dir/main.cpp.o: CMakeFiles/Trabalho_IA.dir/flags.make
+CMakeFiles/Trabalho_IA.dir/main.cpp.o: ../main.cpp
+CMakeFiles/Trabalho_IA.dir/main.cpp.o: CMakeFiles/Trabalho_IA.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Trabalho_IA.dir/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Trabalho_IA.dir/main.cpp.o -MF CMakeFiles/Trabalho_IA.dir/main.cpp.o.d -o CMakeFiles/Trabalho_IA.dir/main.cpp.o -c /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/main.cpp
+
+CMakeFiles/Trabalho_IA.dir/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Trabalho_IA.dir/main.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/main.cpp > CMakeFiles/Trabalho_IA.dir/main.cpp.i
+
+CMakeFiles/Trabalho_IA.dir/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Trabalho_IA.dir/main.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/main.cpp -o CMakeFiles/Trabalho_IA.dir/main.cpp.s
 
 # Object files for target Trabalho_IA
 Trabalho_IA_OBJECTS = \
 "CMakeFiles/Trabalho_IA.dir/parser/parser.cpp.o" \
 "CMakeFiles/Trabalho_IA.dir/search/AStar.cpp.o" \
 "CMakeFiles/Trabalho_IA.dir/search/iterativeDepth.cpp.o" \
-"CMakeFiles/Trabalho_IA.dir/main.cpp.o" \
-"CMakeFiles/Trabalho_IA.dir/gui/gui.cpp.o"
+"CMakeFiles/Trabalho_IA.dir/search/search.cpp.o" \
+"CMakeFiles/Trabalho_IA.dir/gui/gui.cpp.o" \
+"CMakeFiles/Trabalho_IA.dir/main.cpp.o"
 
 # External object files for target Trabalho_IA
 Trabalho_IA_EXTERNAL_OBJECTS =
@@ -153,8 +168,9 @@ Trabalho_IA_EXTERNAL_OBJECTS =
 Trabalho_IA: CMakeFiles/Trabalho_IA.dir/parser/parser.cpp.o
 Trabalho_IA: CMakeFiles/Trabalho_IA.dir/search/AStar.cpp.o
 Trabalho_IA: CMakeFiles/Trabalho_IA.dir/search/iterativeDepth.cpp.o
-Trabalho_IA: CMakeFiles/Trabalho_IA.dir/main.cpp.o
+Trabalho_IA: CMakeFiles/Trabalho_IA.dir/search/search.cpp.o
 Trabalho_IA: CMakeFiles/Trabalho_IA.dir/gui/gui.cpp.o
+Trabalho_IA: CMakeFiles/Trabalho_IA.dir/main.cpp.o
 Trabalho_IA: CMakeFiles/Trabalho_IA.dir/build.make
 Trabalho_IA: _deps/ftxui-build/libftxui-screen.a
 Trabalho_IA: _deps/ftxui-build/libftxui-dom.a
@@ -162,7 +178,7 @@ Trabalho_IA: _deps/ftxui-build/libftxui-component.a
 Trabalho_IA: _deps/ftxui-build/libftxui-dom.a
 Trabalho_IA: _deps/ftxui-build/libftxui-screen.a
 Trabalho_IA: CMakeFiles/Trabalho_IA.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/rzcgl/Documents/USP/IA/Trabalho-IA/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Trabalho_IA"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable Trabalho_IA"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Trabalho_IA.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -174,6 +190,6 @@ CMakeFiles/Trabalho_IA.dir/clean:
 .PHONY : CMakeFiles/Trabalho_IA.dir/clean
 
 CMakeFiles/Trabalho_IA.dir/depend:
-	cd /home/rzcgl/Documents/USP/IA/Trabalho-IA/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/rzcgl/Documents/USP/IA/Trabalho-IA /home/rzcgl/Documents/USP/IA/Trabalho-IA /home/rzcgl/Documents/USP/IA/Trabalho-IA/build /home/rzcgl/Documents/USP/IA/Trabalho-IA/build /home/rzcgl/Documents/USP/IA/Trabalho-IA/build/CMakeFiles/Trabalho_IA.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build /home/rzcg/Documents/USP/Disciplinas/IA/Trabalho-IA/build/CMakeFiles/Trabalho_IA.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Trabalho_IA.dir/depend
 
