@@ -181,7 +181,7 @@ CMakeFiles/Trabalho_IA.dir/main.cpp.o: \
  /usr/include/c++/11/tr1/modified_bessel_func.tcc \
  /usr/include/c++/11/tr1/poly_hermite.tcc \
  /usr/include/c++/11/tr1/poly_laguerre.tcc \
- /usr/include/c++/11/tr1/riemann_zeta.tcc \
+ /usr/include/c++/11/tr1/riemann_zeta.tcc /usr/include/c++/11/ctime \
  /home/rzcgl/Documents/USP/IA/Trabalho-IA/search/AStar.hpp \
  /home/rzcgl/Documents/USP/IA/Trabalho-IA/parser/parser.hpp \
  /usr/include/c++/11/fstream /usr/include/c++/11/bits/codecvt.h \

@@ -11,6 +11,6 @@ vector<Pair> iterativeDepthSearch(const vector<vector<int>> maze, Pair start, in
 
 // Busca em profundidade limitada
 bool depthLimitedSearch(const vector<vector<int>> maze, vector<vector<bool>> &visited,
-    Pair position, int depth, int limit, vector<Pair> &path);
+    Pair position, int depth, int limit, vector<Pair> &path, int &expansions);
 
 #endif

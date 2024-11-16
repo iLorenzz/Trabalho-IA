@@ -129,6 +129,12 @@ CMakeFiles/Trabalho_IA.dir/gui/gui.cpp.o: ../gui/gui.cpp \
   /usr/include/c++/11/tr1/poly_hermite.tcc \
   /usr/include/c++/11/tr1/poly_laguerre.tcc \
   /usr/include/c++/11/tr1/riemann_zeta.tcc \
+  /usr/include/c++/11/ctime \
+  /usr/include/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/timex.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
   ../search/iterativeDepth.hpp \
   ../parser/parser.hpp \
   /usr/include/c++/11/fstream \
@@ -172,11 +178,6 @@ CMakeFiles/Trabalho_IA.dir/gui/gui.cpp.o: ../gui/gui.cpp \
   /usr/include/x86_64-linux-gnu/bits/sched.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_sched_param.h \
   /usr/include/x86_64-linux-gnu/bits/cpu-set.h \
-  /usr/include/time.h \
-  /usr/include/x86_64-linux-gnu/bits/time.h \
-  /usr/include/x86_64-linux-gnu/bits/timex.h \
-  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
   /usr/include/x86_64-linux-gnu/bits/setjmp.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct___jmp_buf_tag.h \
   /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
@@ -292,7 +293,6 @@ CMakeFiles/Trabalho_IA.dir/gui/gui.cpp.o: ../gui/gui.cpp \
   _deps/ftxui-src/include/ftxui/component/component_options.hpp \
   /usr/include/c++/11/chrono \
   /usr/include/c++/11/ratio \
-  /usr/include/c++/11/ctime \
   _deps/ftxui-src/include/ftxui/component/animation.hpp \
   _deps/ftxui-src/include/ftxui/component/event.hpp \
   _deps/ftxui-src/include/ftxui/component/mouse.hpp \
@@ -536,6 +536,7 @@ CMakeFiles/Trabalho_IA.dir/main.cpp.o: ../main.cpp \
   /usr/include/c++/11/tr1/poly_hermite.tcc \
   /usr/include/c++/11/tr1/poly_laguerre.tcc \
   /usr/include/c++/11/tr1/riemann_zeta.tcc \
+  /usr/include/c++/11/ctime \
   ../search/AStar.hpp \
   ../parser/parser.hpp \
   /usr/include/c++/11/fstream \
@@ -772,7 +773,8 @@ CMakeFiles/Trabalho_IA.dir/parser/parser.cpp.o: ../parser/parser.cpp \
   /usr/include/c++/11/tr1/modified_bessel_func.tcc \
   /usr/include/c++/11/tr1/poly_hermite.tcc \
   /usr/include/c++/11/tr1/poly_laguerre.tcc \
-  /usr/include/c++/11/tr1/riemann_zeta.tcc
+  /usr/include/c++/11/tr1/riemann_zeta.tcc \
+  /usr/include/c++/11/ctime
 
 CMakeFiles/Trabalho_IA.dir/search/AStar.cpp.o: ../search/AStar.cpp \
   /usr/include/stdc-predef.h \
@@ -901,6 +903,12 @@ CMakeFiles/Trabalho_IA.dir/search/AStar.cpp.o: ../search/AStar.cpp \
   /usr/include/c++/11/tr1/poly_hermite.tcc \
   /usr/include/c++/11/tr1/poly_laguerre.tcc \
   /usr/include/c++/11/tr1/riemann_zeta.tcc \
+  /usr/include/c++/11/ctime \
+  /usr/include/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/timex.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
   /usr/include/c++/11/iostream \
   /usr/include/c++/11/ostream \
   /usr/include/c++/11/ios \
@@ -942,11 +950,6 @@ CMakeFiles/Trabalho_IA.dir/search/AStar.cpp.o: ../search/AStar.cpp \
   /usr/include/x86_64-linux-gnu/bits/sched.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_sched_param.h \
   /usr/include/x86_64-linux-gnu/bits/cpu-set.h \
-  /usr/include/time.h \
-  /usr/include/x86_64-linux-gnu/bits/time.h \
-  /usr/include/x86_64-linux-gnu/bits/timex.h \
-  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
   /usr/include/x86_64-linux-gnu/bits/setjmp.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct___jmp_buf_tag.h \
   /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
@@ -1125,6 +1128,12 @@ CMakeFiles/Trabalho_IA.dir/search/iterativeDepth.cpp.o: ../search/iterativeDepth
   /usr/include/c++/11/tr1/poly_hermite.tcc \
   /usr/include/c++/11/tr1/poly_laguerre.tcc \
   /usr/include/c++/11/tr1/riemann_zeta.tcc \
+  /usr/include/c++/11/ctime \
+  /usr/include/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/timex.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
   /usr/include/c++/11/iostream \
   /usr/include/c++/11/ostream \
   /usr/include/c++/11/ios \
@@ -1166,11 +1175,6 @@ CMakeFiles/Trabalho_IA.dir/search/iterativeDepth.cpp.o: ../search/iterativeDepth
   /usr/include/x86_64-linux-gnu/bits/sched.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct_sched_param.h \
   /usr/include/x86_64-linux-gnu/bits/cpu-set.h \
-  /usr/include/time.h \
-  /usr/include/x86_64-linux-gnu/bits/time.h \
-  /usr/include/x86_64-linux-gnu/bits/timex.h \
-  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
-  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h \
   /usr/include/x86_64-linux-gnu/bits/setjmp.h \
   /usr/include/x86_64-linux-gnu/bits/types/struct___jmp_buf_tag.h \
   /usr/include/x86_64-linux-gnu/bits/pthread_stack_min-dynamic.h \
@@ -1347,7 +1351,13 @@ CMakeFiles/Trabalho_IA.dir/search/search.cpp.o: ../search/search.cpp \
   /usr/include/c++/11/tr1/modified_bessel_func.tcc \
   /usr/include/c++/11/tr1/poly_hermite.tcc \
   /usr/include/c++/11/tr1/poly_laguerre.tcc \
-  /usr/include/c++/11/tr1/riemann_zeta.tcc
+  /usr/include/c++/11/tr1/riemann_zeta.tcc \
+  /usr/include/c++/11/ctime \
+  /usr/include/time.h \
+  /usr/include/x86_64-linux-gnu/bits/time.h \
+  /usr/include/x86_64-linux-gnu/bits/timex.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_tm.h \
+  /usr/include/x86_64-linux-gnu/bits/types/struct_itimerspec.h
 
 
 ../search/AStar.cpp:
@@ -1384,10 +1394,6 @@ _deps/ftxui-src/include/ftxui/util/ref.hpp:
 
 _deps/ftxui-src/include/ftxui/screen/terminal.hpp:
 
-/usr/include/c++/11/ctime:
-
-_deps/ftxui-src/include/ftxui/screen/screen.hpp:
-
 /usr/include/c++/11/optional:
 
 _deps/ftxui-src/include/ftxui/dom/flexbox_config.hpp:
@@ -1415,6 +1421,8 @@ _deps/ftxui-src/include/ftxui/component/component_base.hpp:
 /usr/include/c++/11/bits/atomic_base.h:
 
 /usr/include/c++/11/ext/concurrence.h:
+
+/usr/include/c++/11/bits/allocated_ptr.h:
 
 /usr/include/c++/11/tr1/poly_hermite.tcc:
 
@@ -1447,8 +1455,6 @@ _deps/ftxui-src/include/ftxui/component/screen_interactive.hpp:
 /usr/include/c++/11/ext/new_allocator.h:
 
 /usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:
-
-/usr/include/c++/11/bits/allocated_ptr.h:
 
 /usr/include/c++/11/backward/binders.h:
 
@@ -1516,6 +1522,10 @@ _deps/ftxui-src/include/ftxui/component/task.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/time64.h:
 
+_deps/ftxui-src/include/ftxui/screen/screen.hpp:
+
+/usr/include/c++/11/ctime:
+
 ../search/iterativeDepth.hpp:
 
 /usr/include/x86_64-linux-gnu/bits/types.h:
@@ -1538,11 +1548,11 @@ _deps/ftxui-src/include/ftxui/component/task.hpp:
 
 /usr/include/c++/11/bits/stl_pair.h:
 
-/usr/include/c++/11/ext/atomicity.h:
-
 /usr/include/x86_64-linux-gnu/bits/select.h:
 
 /usr/include/x86_64-linux-gnu/bits/time.h:
+
+/usr/include/c++/11/ext/atomicity.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdlib-float.h:
 
@@ -1752,6 +1762,12 @@ _deps/ftxui-src/include/ftxui/component/animation.hpp:
 
 /usr/include/c++/11/tr1/riemann_zeta.tcc:
 
+/usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
+
+/usr/include/x86_64-linux-gnu/bits/timex.h:
+
+/usr/include/c++/11/bits/invoke.h:
+
 ../parser/parser.hpp:
 
 /usr/include/c++/11/istream:
@@ -1839,12 +1855,6 @@ _deps/ftxui-src/include/ftxui/dom/requirement.hpp:
 /usr/include/x86_64-linux-gnu/bits/cpu-set.h:
 
 _deps/ftxui-src/include/ftxui/component/component.hpp:
-
-/usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
-
-/usr/include/x86_64-linux-gnu/bits/timex.h:
-
-/usr/include/c++/11/bits/invoke.h:
 
 /usr/include/time.h:
 
