@@ -151,8 +151,9 @@ void gui_init() {
             canvas(&maze_canvas) | border,
             vflow({
                 paragraph(info1),
-                paragraph(""),
+                paragraph(" "),
                 paragraph(info2),
+                paragraph(" "),
                 paragraph(info3)
                 }) | border,
         });
