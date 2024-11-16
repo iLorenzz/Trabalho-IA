@@ -3,6 +3,7 @@
 
 #include <vector>
 #include <utility>
+#include <ctime>
 #include "search.hpp"
 
 // Busca em profundidade iterativa (repetidas buscas em profundidade limitadas)

@@ -1,6 +1,5 @@
 #include "AStar.hpp"
-
-#include <iostream>
+#include <ctime>
 
 // Calcula a heuristica pela distancia de Manhattan
 int manhattanHeuristic(Pair currentPosition , Pair end){
@@ -31,8 +30,8 @@ vector<Pair> reconstructPath(NodeAStar* endNode) {
 // Algoritmo A*
 vector<Pair> AStar(vector<vector<int>> maze, Pair start, Pair end, int mazeSize, int &size, int &expansions, double &time){
 
-    
-    time_t timeStart = std::time(nullptr);
+    clock_t timeStart = clock();
+    //time_t timeStart = std::time(nullptr);
     expansions = 0;
 
     priority_queue<NodeAStar*, vector<NodeAStar*>, CompareF> aStarQueue;
@@ -50,8 +49,9 @@ vector<Pair> AStar(vector<vector<int>> maze, Pair start, Pair end, int mazeSize,
 
         // Se o no da fila for o fim
         if(end == currentNode->position) {
-            time_t timeEnd = std::time(nullptr);
-            time = std::difftime(timeEnd, timeStart);
+            //time_t timeEnd = std::time(nullptr);
+            clock_t timeEnd = clock();
+            time = difftime(timeEnd, timeStart)/CLOCKS_PER_SEC;
             size = currentNode->currentDistance;
             return reconstructPath(currentNode);
         }
@@ -79,5 +79,7 @@ vector<Pair> AStar(vector<vector<int>> maze, Pair start, Pair end, int mazeSize,
     }
 
     // Nao existem caminhos ate o final do labirinto
+    clock_t timeEnd = clock();
+    time =  difftime(timeEnd, timeStart)/CLOCKS_PER_SEC;
     return {};
 }

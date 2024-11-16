@@ -1,13 +1,15 @@
 #include "iterativeDepth.hpp"
 
+#include <ctime>
 #include <iostream>
 #include <ostream>
 
 // Busca em profundidade iterativa (repetidas buscas em profundidade limitadas)
 // Retorna um vector com a solução encontrada
 vector<Pair> iterativeDepthSearch(const vector<vector<int>> maze, Pair start, int &size, int &expansions, double &time) {
-
-    time_t timeStart = std::time(nullptr);
+    
+    clock_t timeStart = clock();
+    //time_t timeStart = std::time(nullptr);
     int mazeSize = maze.size();
     expansions = 0;
 
@@ -18,16 +20,18 @@ vector<Pair> iterativeDepthSearch(const vector<vector<int>> maze, Pair start, in
         vector<Pair> solutionPath;
 
         if(depthLimitedSearch(maze, visited, start, 0, limit, solutionPath, expansions)) {
-            time_t timeEnd = std::time(nullptr);
-            time = std::difftime(timeEnd, timeStart);
+            //time_t timeEnd = std::time(nullptr);
+            clock_t timeEnd = clock();
+            time = difftime(timeEnd, timeStart)/CLOCKS_PER_SEC;
             size = solutionPath.size();
             return solutionPath;
         }
     }
 
     // Nenhum caminho encontrado
-    time_t timeEnd = std::time(nullptr);
-    time = std::difftime(timeEnd, timeStart);
+    //time_t timeEnd = std::time(nullptr);
+    clock_t timeEnd = clock();
+    time = std::difftime(timeEnd, timeStart)/CLOCKS_PER_SEC;
     size = -1;
     return {};
 }

@@ -3,7 +3,9 @@
 
 #include <vector>
 #include <utility>
+#include <iostream>
 #include "search.hpp"
+#include <ctime>
 
 // Estrutura de um elemento da fila do A*
 // Armazena parent para resgatarmos o tamanho da distancia
