@@ -1,10 +1,9 @@
 #ifndef ITERATIVEDEPTH_HPP
 #define ITERATIVEDEPTH_HPP
 
-#include <vector>
-#include <utility>
-#include <ctime>
 #include "search.hpp"
+
+using namespace std;
 
 // Busca em profundidade iterativa (repetidas buscas em profundidade limitadas)
 // Retorna um vector com a solução encontrada

@@ -1,11 +1,9 @@
 #ifndef ASTAR_HPP
 #define ASTAR_HPP
 
-#include <vector>
-#include <utility>
-#include <iostream>
 #include "search.hpp"
-#include <ctime>
+
+using namespace std;
 
 // Estrutura de um elemento da fila do A*
 // Armazena parent para resgatarmos o tamanho da distancia

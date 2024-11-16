@@ -7,10 +7,17 @@
 #include <vector>
 #include <cmath>
 #include <ctime>
+#include <iostream>
+#include <ostream>
+#include <tuple>
 
 using namespace std;
-
 typedef pair<int, int> Pair;
+
+#include "AStar.hpp"
+#include "iterativeDepth.hpp"
+
+using namespace std;
 
 // Direcoes validas a partir de uma determinada posicao (variacoes)
 const vector<Pair> MOVEMENTS = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};

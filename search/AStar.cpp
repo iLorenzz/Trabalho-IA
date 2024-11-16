@@ -1,5 +1,4 @@
 #include "AStar.hpp"
-#include <ctime>
 
 // Calcula a heuristica pela distancia de Manhattan
 int manhattanHeuristic(Pair currentPosition , Pair end){
