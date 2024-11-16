@@ -5,8 +5,11 @@
 
 // Busca em profundidade iterativa (repetidas buscas em profundidade limitadas)
 // Retorna um vector com a solução encontrada
-vector<Pair> iterativeDepthSearch(const vector<vector<int>> maze, Pair start) {
+vector<Pair> iterativeDepthSearch(const vector<vector<int>> maze, Pair start, int &size, int &expansions, double &time) {
+
+    time_t timeStart = std::time(nullptr);
     int mazeSize = maze.size();
+    expansions = 0;
 
     // Buscas em profundidades com limites crescentes
     for(int limit = 0; limit < pow(mazeSize, 2); limit++) {
@@ -14,28 +17,39 @@ vector<Pair> iterativeDepthSearch(const vector<vector<int>> maze, Pair start) {
         vector<vector<bool>> visited(mazeSize, vector<bool>(mazeSize, false));
         vector<Pair> solutionPath;
 
-        if(depthLimitedSearch(maze, visited, start, 0, limit, solutionPath))
+        if(depthLimitedSearch(maze, visited, start, 0, limit, solutionPath, expansions)) {
+            time_t timeEnd = std::time(nullptr);
+            time = std::difftime(timeEnd, timeStart);
+            size = solutionPath.size();
             return solutionPath;
+        }
     }
 
     // Nenhum caminho encontrado
+    time_t timeEnd = std::time(nullptr);
+    time = std::difftime(timeEnd, timeStart);
+    size = -1;
     return {};
 }
 
 // Busca em profundidade limitada
 bool depthLimitedSearch(const vector<vector<int>> maze, vector<vector<bool>> &visited,
-    Pair position, int depth, int limit, vector<Pair> &path) {
+    Pair position, int depth, int limit, vector<Pair> &path, int &expansions) {
 
+    // Se profundidadede maior que o limite, retorna falso
     if(depth > limit) return false;
     
+    // Posicao atual
     int x = position.first;
     int y = position.second;
 
+    // Se posicao atual e o final, retorna true
     if(maze[x][y] == 3) {
         path.push_back(position);
         return true;
     }
 
+    // Vertice foi visitado
     visited[x][y] = true;
     path.push_back(position);
 
@@ -45,8 +59,10 @@ bool depthLimitedSearch(const vector<vector<int>> maze, vector<vector<bool>> &vi
             y + MOVEMENTS[i].second
         };
 
+        // Para cada posicao de um vizinho, verificar se o passo eh valido
         if(isStepValid(newPosition, maze, visited)) {
-            if(depthLimitedSearch(maze, visited, newPosition, depth + 1, limit, path)) {
+            expansions++;
+            if(depthLimitedSearch(maze, visited, newPosition, depth + 1, limit, path, expansions)) {
                 return true;
             }
         }

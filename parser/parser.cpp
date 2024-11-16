@@ -5,6 +5,7 @@
 
 using namespace std;
 
+// Converte o labirinto do .txt para uma matriz e salva seu inicio e fim
 vector<vector<int>> mazeToMatrix(Pair &start, Pair &end, int mazeSize) {
 
     vector<vector<int>> matrix(mazeSize, vector<int>(mazeSize, 0));
@@ -15,15 +16,18 @@ vector<vector<int>> mazeToMatrix(Pair &start, Pair &end, int mazeSize) {
 
     while(file.get(character)) {
 
+        // Se pulou linha, nova linha e coluna volta a 0
         if(character == '\n') {
             line++;
             column = 0;
             continue;
         } else {
+            // Se nao, soma 1 na coluna
             matrix[line][column] = character - '0'; 
             column++;
         }
         
+        // Verifica se e inicio ou final
         if(character == '2') {
             start.first = line;
             start.second = column - 1;
