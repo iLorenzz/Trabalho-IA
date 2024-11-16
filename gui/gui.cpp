@@ -20,7 +20,7 @@ using namespace std;
 constexpr int CANVAS_SIZE = 220;
 
 Canvas maze_canvas;
-string info1 = "Program by Alexandre S., Leonardo R., Lorenzo D. e Raphael Z.";
+string info1 = "Program by Alexandre Santato, Leonardo Rizzo, Lorenzo Dutra and Raphael Zoega";
 string info2 = "Iterative search is quite slow starting at 50x50 labyrinths.";
 string info3 = "Program might freeze for a couple of seconds; it's normal.";
 int maze_size_selected;
